@@ -14,3 +14,7 @@ Here are programs on different topics of Python with proper explaination
 ](Comprehension/Comprehension_5.py)
 - [Create a function called get_numbers() which accepts a list of strings , symbols and numbers as argument and returns a list containing  only numbers from that list.
 ](Comprehension/Comprehension_6.py)
+- [Write a program to produce square of only those numbers which are divisible by 2 as well as 3 from 1 to 20 , store them in a list and print the list.
+](Comprehension/Comprehension_7.py)
+- [Write a function called get_upper( ) which accepts a string as argument and returns a list containing only upper case letters but without any vowels of that string. Accept the string from the user as input
+](Comprehension/Comprehension_8.py)
