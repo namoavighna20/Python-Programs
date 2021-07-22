@@ -8,3 +8,9 @@ Here are programs on different topics of Python with proper explaination
 ](Comprehension/Comprehension_2.py)
 - [Write a program to accept 5 integers from the user and store them in a list . Now display the list and sum of the elements.
 ](Comprehension/Comprehension_3.py)
+- [Write a program to produce square of only odd nos from 1 to 5 , store them in a list and print the list.
+](Comprehension/Comprehension_4.py)
+- [Create a function called removevowels() which accepts a string as argument and returns a list with all the vowels removed from that string
+](Comprehension/Comprehension_5.py)
+- [Create a function called get_numbers() which accepts a list of strings , symbols and numbers as argument and returns a list containing  only numbers from that list.
+](Comprehension/Comprehension_6.py)
